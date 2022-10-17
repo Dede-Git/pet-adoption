@@ -1,0 +1,31 @@
+body {
+  background-color: aquamarine;
+}
+
+#root {
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 20%;
+}
+
+.card {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.cardimage {
+  height: 400px;
+  width: 400px;
+}
+
+.Buttons {
+  display: flex;
+  gap: 50px;
+  margin: 3% 40% 3% 45%;
+}
+
+
+.Button:active {
+  background-color: brown;
+}
