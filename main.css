@@ -12,6 +12,7 @@ body {
   margin: 20px;
   padding: 10px;
   border-radius: 10px;
+  text-align: center;
 }
 
 .cardimage {
@@ -28,4 +29,20 @@ body {
 
 .Button:active {
   background-color: brown;
+}
+
+.cat {
+  background-color: blue;
+}
+
+.dog {
+  background-color: green;
+}
+
+.dino {
+  background-color: gold;
+}
+
+.pet-name {
+  background-color: gray;
 }
